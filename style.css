@@ -1351,7 +1351,7 @@
     }
 
     .colonne-gauche, .millieu, .colonne-droite{
-        width: 33vw;
+        width: 350px;
     }
 
     .millieu{
